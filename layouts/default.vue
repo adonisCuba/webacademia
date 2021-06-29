@@ -22,7 +22,7 @@
         </v-list-item>
       </v-list>
     </v-navigation-drawer>
-    <v-app-bar fixed app>
+    <v-app-bar fixed app color="blue" dark>
       <v-app-bar-nav-icon @click.stop="drawer = !drawer" />      
       <v-toolbar-title v-text="title" />
       <v-spacer />
@@ -41,7 +41,7 @@
         <Nuxt />
       </v-container>
     </v-main>    
-    <v-footer app >
+    <v-footer app color="blue" absolute class="white--text">         
       <span>&copy; {{ new Date().getFullYear() }}</span>
     </v-footer>
   </v-app>
