@@ -158,6 +158,218 @@
         </v-card>
       </v-col>      
     </v-row>
+    <h1 class="text-center pa-4 blue--text">Testimonios</h1>
+    <v-carousel 
+      hide-delimiters
+      show-arrows-on-hover          
+      continuous
+      height="350"       
+    >
+      <v-carousel-item>
+        <v-row>
+          <v-col>
+            <v-card>
+              <v-img src="usuario.png" width="80" height="80" class="rounded-circle center_el"></v-img>
+              <v-card-text>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
+                   et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut 
+                   aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum 
+                   dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui 
+                   officia deserunt mollit anim id est laborum.</p>
+              </v-card-text>
+              <v-card-actions class="justify-center">
+                <v-icon class="pr-2" color="blue">mdi-facebook</v-icon>
+                <v-icon color="blue">mdi-twitter</v-icon>
+              </v-card-actions>
+            </v-card>
+          </v-col>
+          <v-col>
+            <v-card>
+              <v-img src="usuario.png" width="80" height="80" class="rounded-circle center_el"></v-img>
+              <v-card-text>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
+                   et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut 
+                   aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum 
+                   dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui 
+                   officia deserunt mollit anim id est laborum.</p>
+              </v-card-text>
+              <v-card-actions class="justify-center">
+                <v-icon class="pr-2" color="blue">mdi-facebook</v-icon>
+                <v-icon color="blue">mdi-twitter</v-icon>
+              </v-card-actions>
+            </v-card>
+          </v-col>
+          <v-col>
+            <v-card>
+              <v-img src="usuario.png" width="80" height="80" class="rounded-circle center_el"></v-img>
+              <v-card-text>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
+                   et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut 
+                   aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum 
+                   dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui 
+                   officia deserunt mollit anim id est laborum.</p>
+              </v-card-text>
+              <v-card-actions class="justify-center">
+                <v-icon class="pr-2" color="blue">mdi-facebook</v-icon>
+                <v-icon color="blue">mdi-twitter</v-icon>
+              </v-card-actions>
+            </v-card>
+          </v-col>
+          <v-col>
+            <v-card>
+              <v-img src="usuario.png" width="80" height="80" class="rounded-circle center_el"></v-img>
+              <v-card-text>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
+                   et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut 
+                   aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum 
+                   dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui 
+                   officia deserunt mollit anim id est laborum.</p>
+              </v-card-text>
+              <v-card-actions class="justify-center">
+                <v-icon class="pr-2" color="blue">mdi-facebook</v-icon>
+                <v-icon color="blue">mdi-twitter</v-icon>
+              </v-card-actions>
+            </v-card>
+          </v-col>
+        </v-row>
+      </v-carousel-item>
+      <v-carousel-item>
+        <v-row>
+          <v-col>
+            <v-card>
+              <v-img src="usuario.png" width="80" height="80" class="rounded-circle center_el"></v-img>
+              <v-card-text>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
+                   et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut 
+                   aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum 
+                   dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui 
+                   officia deserunt mollit anim id est laborum.</p>
+              </v-card-text>
+              <v-card-actions class="justify-center">
+                <v-icon class="pr-2" color="blue">mdi-facebook</v-icon>
+                <v-icon color="blue">mdi-twitter</v-icon>
+              </v-card-actions>
+            </v-card>
+          </v-col>
+          <v-col>
+            <v-card>
+              <v-img src="usuario.png" width="80" height="80" class="rounded-circle center_el"></v-img>
+              <v-card-text>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
+                   et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut 
+                   aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum 
+                   dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui 
+                   officia deserunt mollit anim id est laborum.</p>
+              </v-card-text>
+              <v-card-actions class="justify-center">
+                <v-icon class="pr-2" color="blue">mdi-facebook</v-icon>
+                <v-icon color="blue">mdi-twitter</v-icon>
+              </v-card-actions>
+            </v-card>
+          </v-col>
+          <v-col>
+            <v-card>
+              <v-img src="usuario.png" width="80" height="80" class="rounded-circle center_el"></v-img>
+              <v-card-text>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
+                   et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut 
+                   aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum 
+                   dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui 
+                   officia deserunt mollit anim id est laborum.</p>
+              </v-card-text>
+              <v-card-actions class="justify-center">
+                <v-icon class="pr-2" color="blue">mdi-facebook</v-icon>
+                <v-icon color="blue">mdi-twitter</v-icon>
+              </v-card-actions>
+            </v-card>
+          </v-col>
+          <v-col>
+            <v-card>
+              <v-img src="usuario.png" width="80" height="80" class="rounded-circle center_el"></v-img>
+              <v-card-text>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
+                   et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut 
+                   aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum 
+                   dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui 
+                   officia deserunt mollit anim id est laborum.</p>
+              </v-card-text>
+              <v-card-actions class="justify-center">
+                <v-icon class="pr-2" color="blue">mdi-facebook</v-icon>
+                <v-icon color="blue">mdi-twitter</v-icon>
+              </v-card-actions>
+            </v-card>
+          </v-col>
+        </v-row>
+      </v-carousel-item>
+      <v-carousel-item>
+        <v-row>
+          <v-col>
+            <v-card>
+              <v-img src="usuario.png" width="80" height="80" class="rounded-circle center_el"></v-img>
+              <v-card-text>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
+                   et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut 
+                   aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum 
+                   dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui 
+                   officia deserunt mollit anim id est laborum.</p>
+              </v-card-text>
+              <v-card-actions class="justify-center">
+                <v-icon class="pr-2" color="blue">mdi-facebook</v-icon>
+                <v-icon color="blue">mdi-twitter</v-icon>
+              </v-card-actions>
+            </v-card>
+          </v-col>
+          <v-col>
+            <v-card>
+              <v-img src="usuario.png" width="80" height="80" class="rounded-circle center_el"></v-img>
+              <v-card-text>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
+                   et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut 
+                   aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum 
+                   dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui 
+                   officia deserunt mollit anim id est laborum.</p>
+              </v-card-text>
+              <v-card-actions class="justify-center">
+                <v-icon class="pr-2" color="blue">mdi-facebook</v-icon>
+                <v-icon color="blue">mdi-twitter</v-icon>
+              </v-card-actions>
+            </v-card>
+          </v-col>
+          <v-col>
+            <v-card>
+              <v-img src="usuario.png" width="80" height="80" class="rounded-circle center_el"></v-img>
+              <v-card-text>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
+                   et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut 
+                   aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum 
+                   dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui 
+                   officia deserunt mollit anim id est laborum.</p>
+              </v-card-text>
+              <v-card-actions class="justify-center">
+                <v-icon class="pr-2" color="blue">mdi-facebook</v-icon>
+                <v-icon color="blue">mdi-twitter</v-icon>
+              </v-card-actions>
+            </v-card>
+          </v-col>
+          <v-col>
+            <v-card>
+              <v-img src="usuario.png" width="80" height="80" class="rounded-circle center_el"></v-img>
+              <v-card-text>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
+                   et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut 
+                   aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum 
+                   dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui 
+                   officia deserunt mollit anim id est laborum.</p>
+              </v-card-text>
+              <v-card-actions class="justify-center">
+                <v-icon class="pr-2" color="blue">mdi-facebook</v-icon>
+                <v-icon color="blue">mdi-twitter</v-icon>
+              </v-card-actions>
+            </v-card>
+          </v-col>
+        </v-row>
+      </v-carousel-item>
+    </v-carousel>
     <v-card class="mt-3 pa-2">
       <v-row>      
         <v-col class="col-12 col-md-3 ma-8 col-xs-12">
@@ -177,8 +389,7 @@
           </v-form>          
         </v-col>           
       </v-row>
-    </v-card>
-    
+    </v-card>    
   </v-container>
 </template>
 <style>
